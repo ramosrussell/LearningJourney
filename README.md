@@ -1,2 +1,4 @@
 # LearningJourney
-Java + Selenium + Maven + Eclipse
+Python
+Java
+Selenium
